@@ -1,5 +1,5 @@
 # SELF-SERVICE-ANALYSIS😎
-***CONTENT BASEN ON MD FILE***  |  ***DETAILS***
+***CONTENT BASEN ON README.MD FILE***  |  ***DETAILS***
 ------------------------------|---------------------------------
 *Best Liked Readme.md on github*     |          *I Liked every Read me file infact every Idea, Information or code which is written for someone's goods*😇
 *Status of self created Readme.md*   |          ★★★★☆*Good*:bowtie:
